@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010
+    },
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "175a",
+      "title": "dwa",
+      "genre": "dwa",
+      "year": 5
+    },
+    {
+      "id": "8836",
+      "title": "dwa",
+      "genre": "dwa",
+      "year": 687
+    }
+  ]
+}
